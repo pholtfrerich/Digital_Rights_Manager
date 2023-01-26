@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'Digital-Rights-Manager-test.us-west-2.elasticbeanstalk.com',
     'digital-rights-manager-prod.us-west-2.elasticbeanstalk.com/',
-    'digitalrightsgenerator.com'
+    'digitalrightsgenerator.com',
+    '127.0.0.1'
 ]
 
 
