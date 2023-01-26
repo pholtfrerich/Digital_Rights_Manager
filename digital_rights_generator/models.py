@@ -5,7 +5,7 @@ from django.http import  HttpResponse
 # Create your models here.
 
 def generate_pdf(form_data):
-    link = form_data['link']
+    #link = form_data['link']
     licensor = form_data['licensor']
     content_title = form_data['content_title']
 
